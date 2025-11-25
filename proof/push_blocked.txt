@@ -1,0 +1,10 @@
+remote: error: GH013: Repository rule violations found for refs/heads/main.
+remote: Review all repository rules at https://github.com/blackcat112/git-lab-NicolasBecas-FranciscoSolano/rules?ref=refs%2Fheads%2Fmain
+remote: 
+remote: - Changes must be made through a pull request.
+remote: 
+remote: - Required status check Check Menu Quality is expected.
+remote: 
+To https://github.com/blackcat112/git-lab-NicolasBecas-FranciscoSolano.git
+ ! [remote rejected] main -> main (push declined due to repository rule violations)
+error: falló el empuje de algunas referencias a 'https://github.com/blackcat112/git-lab-NicolasBecas-FranciscoSolano.git'
