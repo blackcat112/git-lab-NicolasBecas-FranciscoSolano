@@ -4,8 +4,8 @@ All notable changes to the cafeteria menu system will be documented in this file
 
 
 ### 🎯 Task 4 Conflict Zone - DO NOT EDIT TILL TASK 4!
-## [Unreleased] EDIT THIS LINE FOR CONFLICT
-- Bla bla bla    EDIT THIS LINE FOR CONFLICT
+## [Unreleased] Version 1.1.0 - Added vegetarian options
+- Version 1.1.0 - Added vegetarian options
 
 ---
 
